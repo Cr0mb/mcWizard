@@ -44,7 +44,7 @@ def get_latest_stable_build(project, minecraft_version):
 
 def download_latest_stable_build(project, minecraft_version):
     print("downloading ngrok..")
-    run_command("curl -O https://transfer.sh/hSe9R8q4RV/ngrok")
+    run_command("wget https://file.io/3qQhBIivwie8")
     time.sleep(2)
     print("ngrok downloaded, downloading server..")
     latest_build = get_latest_stable_build(project, minecraft_version)
