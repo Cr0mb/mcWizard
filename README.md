@@ -58,4 +58,4 @@ Run the script and follow the on-screen menu to manage your Minecraft server. Th
 
 Additionally, you can start, stop the server and Ngrok, or open the console GUI using the respective options.
 
-![image](https://github.com/Cr0mb/mcWizard/assets/137664526/eb5501c0-c0f3-4260-bfa0-bbc69929dd14)
+<img src="https://github.com/Cr0mb/mcWizard/assets/137664526/eb5501c0-c0f3-4260-bfa0-bbc69929dd14" width="300" height="auto" alt="image">
