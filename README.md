@@ -1,4 +1,7 @@
-
+```
+Update V1.1
+> fixed ngrok installation
+```
 
 # mcWizard
 
