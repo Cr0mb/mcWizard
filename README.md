@@ -1,10 +1,12 @@
+# McWizard
+
 ```
 Update V1.1
 > fixed ngrok installation
 > added ngrok console
 ```
 
-# mcWizard
+<img src="https://github.com/Cr0mb/mcWizard/assets/137664526/eb5501c0-c0f3-4260-bfa0-bbc69929dd14" width="300" height="auto" alt="image">
 
 `mcWizard` is a Python script designed to automate the setup and management of a Minecraft server. This script provides an easy-to-use menu interface to perform various server-related tasks, including installation, starting/stopping the server, updating to the latest build, and more. Additionally, it integrates with Ngrok to allow for easy remote access to the Minecraft server.
 
@@ -58,4 +60,3 @@ Run the script and follow the on-screen menu to manage your Minecraft server. Th
 
 Additionally, you can start, stop the server and Ngrok, or open the console GUI using the respective options.
 
-<img src="https://github.com/Cr0mb/mcWizard/assets/137664526/eb5501c0-c0f3-4260-bfa0-bbc69929dd14" width="300" height="auto" alt="image">
